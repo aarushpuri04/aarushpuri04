@@ -1,5 +1,6 @@
 # 🙋‍♂️ Hii
-I'm Aarush Puri, a Computer Engineering student at Thapar Institute of Engineering and Technology,Patiala, graduating in 2025. I Hail from a beautiful city of Jammu, Jammu and Kashmir.<br>
+I'm Aarush Puri, a Computer Engineering student at Thapar Institute of Engineering and Technology, Patiala, graduating in 2025.<br>
+- 🌄 Hailing from the beautiful city of Jammu, Jammu and Kashmir.<br>
 - 🔭 Currently diving into the world of Data Analytics and Backend Development - it's a wild ride!
 - 🌱 On a mission to learn how to build and launch scalable products without losing my sanity.
 - 👯 Looking for partners in crime to solve real-time problems (no capes required).
