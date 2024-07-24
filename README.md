@@ -14,8 +14,8 @@ I'm Aarush Puri, a Computer Engineering student at Thapar Institute of Engineeri
 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=aarushpuri04&show_icons=true&locale=en" alt="aarushpuri04" style="height: 200px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarushpuri04&" alt="aarushpuri04" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aarushpuri04&show_icons=true&locale=en" alt="aarushpuri04" style="height: 200px; width: 400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarushpuri04&" alt="aarushpuri04" style="height: 200px; width: 400px" />
 </div>
 
 
