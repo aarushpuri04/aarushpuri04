@@ -6,7 +6,7 @@ I'm Aarush Puri, a Computer Engineering student at Thapar Institute of Engineeri
 - 👯 Looking for partners in crime to solve real-time problems (no capes required).
 - 💬 Super interested in Startups, Personal Finance, or modern tech solutions – basically, all the cool stuff.<br>
 - 📫 How to reach me **aarushwork04@gmail.com**
-- 📄 Know about my experiences [aarushpuri_resume](https://bit.ly/aarushpuri_resume)
+- 📄 Know about my experiences [aarushpuri_resume](https://drive.google.com/file/d/1YUyCo-jJTr4xvL7y3MfU1b_4tRPKruk5/view?usp=sharing)
 - ⚡ Fun fact When I'm not immersed in this technical stufff, you can find me dreaming of an "undo" button for real life😭.
 
 <h3 align="left">Languages and Tools:</h3>
